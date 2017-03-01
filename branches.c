@@ -17,7 +17,7 @@ int main() {
 
 	printf("We can also count percentage from sum!\n");
 	printf("Enter two numbers and percentage: ");
-	scanf("%d""%d""%d", &frsNum_user, &sndNum_user, &outRes_user);
+	scanf("%d""%d""%d", &frsNum_user, &sndNum_user, &outRes_user); /*our new function and prototype on branch "develop"*/
 
  return 0;
 }
