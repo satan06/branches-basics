@@ -1,0 +1,1 @@
+int per_calc(int num_forCalc, int perc_forCalc);
